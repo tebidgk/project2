@@ -1,0 +1,186 @@
+css
+html {
+  height: 100%;
+  width: 100%;
+}
+.left-side {
+  background-color: #282ade;
+  position: absolute;
+  top: 31%;
+  left: 28.5%;
+  height: 30%;
+  width: 21.5%;
+  border-radius: 15px;
+}
+.right-side {
+  background-color: #F0F3F4;
+  position: absolute;
+  top: 31%;
+  left: 48%;
+  height: 30%;
+  width: 21.5%;
+  border-radius: 0 15px 15px 0;
+}
+span {
+  padding-left: 10px;
+}
+p {
+  color: white;
+  font-size: 80%;
+  text-align: center;
+  margin-top: 20%;
+}
+
+.circle {
+  background-color: #0d0faf;
+  height: 120px;
+  width: 120px;
+  border-radius: 60px;
+  margin: auto; 
+}
+
+.main {
+  height: 1000px;
+  width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.results {
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  color: #CEE0EA;
+}
+.great {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.text {
+  margin-top: 10px;
+  width: 75%;
+  margin: auto;
+  color: #CEE0EA;
+}
+.score {
+  color: white;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  font-size: 50px;
+}
+
+.middle-text {
+  margin-top: 0;
+  color: #CEE0EA;
+}
+
+.summary {
+  color: black;
+  font-size: 20px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.box1 {
+  width: 70%;
+  height: 11%;
+  background-color: #f6adc6;
+  margin-left: 40px;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+.box2 {
+  width: 70%;
+  height: 11%;
+  background-color: #ffeed0;
+  margin-left: 40px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.box3 {
+  width: 70%;
+  height: 11%;
+  background-color: #EAFAF1 ;
+  margin-left: 40px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.box4 {
+  width: 70%;
+  height: 11%;
+  background-color: #D6EAF8;
+  margin-left: 40px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.reaction {
+  margin-top: 5%;
+  width: 10%;
+  height: 40%;
+  margin-right: 0;
+  margin-left: 5%;
+}
+
+.reaction-text {
+  color: #d064a3;
+  font-size: 15px;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.internal-text {
+  font-size: 10px;
+  padding-left: 20px;
+}
+
+.middle-text {
+  font-size: 10px;
+  padding-left: 0;
+}
+
+.last-text {
+  font-size: 10px;
+  padding-left: 0;
+}
+
+.continue {
+  width: 70%;
+  height: 13%;
+  background-color: #26254B;
+  border-radius: 15px;
+  margin-left: 40px;
+  margin-top: 23px;
+  position: relative;
+}
+
+.continue-text {
+  color: white;
+  font-size: 15px;
+  position: absolute;
+  top: 25%;
+  left: 25%;
+}
+
+.text2 {
+  padding-left: 23px;
+}
+
+.text3 {
+  padding-left: 35px;
+}
+.text4 {
+  padding-left: 35px;
+}
+
+body {
+  font-family: Geneva, sans-serif;
+}
